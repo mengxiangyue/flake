@@ -46,13 +46,13 @@ DispatchQueue.global().async {
 //try eventLoopGroup.next().makePromise(of: Void.self).futureResult.wait()
 //print("feature------")
 
-class X {
-    static let once: () = { print("22") }()
-    func start() {
-        _ = once
-    }
-}
-
-
-start()
-start()
+//class X {
+//    static let once: () = { print("22") }()
+//    func start() {
+//        _ = once
+//    }
+//}
+//
+//
+//start()
+//start()
