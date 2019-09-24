@@ -44,7 +44,7 @@ DispatchQueue.global().async {
 
 //print("feature")
 //try eventLoopGroup.next().makePromise(of: Void.self).futureResult.wait()
-//print("feature------")
+print("feature------")
 
 //class X {
 //    static let once: () = { print("22") }()
